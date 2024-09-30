@@ -1,3 +1,12 @@
+## Free online dictionary
+
+### Search for parts of speech, definitions, and examples of any word using this dictionary.
+### You can also hear the correct pronunciation of words.
+
+  <img src="https://github.com/kourosh07/dictionary/blob/main/Screenshot%202024-09-29%20180822.png" alt="pic" />
+
+##
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
